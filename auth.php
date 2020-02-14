@@ -20,5 +20,5 @@
 	$likes = $instagram->getUserLikes();
 
 	print_r($likes); die();
-
+ echo("hi");
 ?>
